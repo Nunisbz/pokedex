@@ -1,0 +1,10 @@
+body {
+    font-family: 'Press Start 2P', cursive; /* Fonte típica de Pokémon */
+    background-color: #f0f0f0; /* Cinza claro de fundo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+  }
+  
